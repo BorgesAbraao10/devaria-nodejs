@@ -28,7 +28,7 @@ readline.question("Qual ano você nasceu?", (ano) => {
               break;
             default:
               console.log(
-                "Seu nome não foi identificado na lista de presença:"
+                "Seu nome não foi identificado na lista de presença."
               );
           }
         });
